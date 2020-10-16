@@ -1,1 +1,1 @@
-print('ke zuzede?')
+print('ke zuzede? creo que ahora esto explotara')
