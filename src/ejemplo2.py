@@ -1,0 +1,1 @@
+print('ke zuzede? de que me perdi?')
